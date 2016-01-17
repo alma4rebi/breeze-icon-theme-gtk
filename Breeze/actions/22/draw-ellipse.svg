@@ -13,10 +13,48 @@
    height="22"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="draw-ellipse.svg">
   <defs
-     id="defs3762" />
+     id="defs3762">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +62,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.223826"
-     inkscape:cx="21.716722"
-     inkscape:cy="15.77918"
+     inkscape:zoom="24.447652"
+     inkscape:cx="8.9006751"
+     inkscape:cy="11.25159"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,10 +72,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-width="1024"
+     inkscape:window-height="712"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <sodipodi:guide
@@ -102,7 +140,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,10 +150,9 @@
      id="layer1"
      transform="translate(-551.28571,-607.64789)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 9.5,6.5 C 6.453,6.5 4,8.953 4,12 c 0,3.047 2.453,5.5 5.5,5.5 l 5,0 C 17.547,17.5 20,15.047 20,12 20,8.953 17.547,6.5 14.5,6.5 l -5,0 z m 0,1 5,0 c 2.493,0 4.5,2.007 4.5,4.5 0,2.493 -2.007,4.5 -4.5,4.5 l -5,0 C 7.007,16.5 5,14.493 5,12 5,9.507 7.007,7.5 9.5,7.5 Z"
-       transform="translate(550.28572,606.6479)"
-       id="rect4112"
-       inkscape:connector-curvature="0" />
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 11 5 A 8 6 0 0 0 3 11 A 8 6 0 0 0 11 17 A 8 6 0 0 0 19 11 A 8 6 0 0 0 11 5 z M 11 6 A 7 5 0 0 1 18 11 A 7 5 0 0 1 11 16 A 7 5 0 0 1 4 11 A 7 5 0 0 1 11 6 z "
+       transform="translate(551.28571,607.64789)"
+       id="path4153" />
   </g>
 </svg>

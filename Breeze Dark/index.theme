@@ -4,33 +4,33 @@ Name[ca]=Brisa fosca
 Name[en_GB]=Breeze Dark
 Name[es]=Brisa oscura
 Name[gl]=Breeze escuro
-Name[ko]=어두운 Breeze
+Name[ko]=????????? Breeze
 Name[nl]=Breeze Dark
-Name[nn]=Breeze mørk
+Name[nn]=Breeze m??rk
 Name[pl]=Ciemna bryza
 Name[pt]=Brisa Escura
 Name[pt_BR]=Breeze Dark
-Name[sk]=Tmavý vánok
+Name[sk]=Tmav?? v??nok
 Name[sl]=Sapica (temna)
-Name[sv]=Breeze mörk
-Name[uk]=Темна Breeze
+Name[sv]=Breeze m??rk
+Name[uk]=?????????? Breeze
 Name[x-test]=xxBreeze Darkxx
 
 Comment=Default Plasma 5 Theme for Dark themes
 Comment[ca]=Tema del Plasma 5 per defecte per temes foscos
 Comment[en_GB]=Default Plasma 5 Theme for Dark themes
-Comment[es]=Tema por omisión de Plasma 5 para temas oscuros
+Comment[es]=Tema por omisi??n de Plasma 5 para temas oscuros
 Comment[gl]=Tema predeterminado de Plasma 5 para temas escuros
-Comment[ko]=기본 Plasma 5 어두운 테마
+Comment[ko]=?????? Plasma 5 ????????? ??????
 Comment[nl]=Standaard Plasma 5 thema voor donkere thema's
-Comment[nn]=Standard Plasma 5-tema for mørke tema
-Comment[pl]=Domyślny wystrój Plazma 5 dla ciemnych wystrojów
+Comment[nn]=Standard Plasma 5-tema for m??rke tema
+Comment[pl]=Domy??lny wystr??j Plazma 5 dla ciemnych wystroj??w
 Comment[pt]=Tema Escuro Predefinido do Plasma 5
-Comment[pt_BR]=Tema padrão do Plasma 5 para temas escuros
-Comment[sk]=Predvolená téma Plasma 5 pre tmavé témy
+Comment[pt_BR]=Tema padr??o do Plasma 5 para temas escuros
+Comment[sk]=Predvolen?? t??ma Plasma 5 pre tmav?? t??my
 Comment[sl]=Privzeta tema za KDE Plasma 5 za temne teme
-Comment[sv]=Plasma 5 standardtema för mörka teman
-Comment[uk]=Тема піктограм для Плазми 5 для темних тем
+Comment[sv]=Plasma 5 standardtema f??r m??rka teman
+Comment[uk]=???????? ?????????????????? ?????? ???????????? 5 ?????? ???????????? ??????
 Comment[x-test]=xxDefault Plasma 5 Theme for Dark themesxx
 
 DisplayDepth=32
@@ -267,7 +267,7 @@ Type=Fixed
 [places/32]
 Size=32
 Context=Places
-Type=Fixed
+Type=Scalable
 MinSize=32
 MaxSize=48
 
@@ -292,7 +292,9 @@ Type=Fixed
 [status/22]
 Size=22
 Context=Status
-Type=Fixed
+Type=Scalable
+MinSize=22
+MaxSize=32
 
 #24x24 - Fixed size - for GTK apps. - WRONG_ICON_USAGE_BY_APP - Monochrome
 [status/24]

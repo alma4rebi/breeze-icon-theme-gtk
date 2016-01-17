@@ -19,18 +19,18 @@ Name[x-test]=xxBreezexx
 Comment=Default Plasma 5 Theme
 Comment[ca]=Tema del Plasma 5 per defecte
 Comment[en_GB]=Default Plasma 5 Theme
-Comment[es]=Tema por omisión de Plasma 5
+Comment[es]=Tema por omisi??n de Plasma 5
 Comment[gl]=Tema predeterminado de Plasma 5
-Comment[ko]=기본 Plasma 5 테마
+Comment[ko]=?????? Plasma 5 ??????
 Comment[nl]=Standaard Plasma 5 thema
 Comment[nn]=Standard Plasma 5-tema
-Comment[pl]=Domyślny wystrój Plazmy 5
+Comment[pl]=Domy??lny wystr??j Plazmy 5
 Comment[pt]=Tema Predefinido do Plasma 5
-Comment[pt_BR]=Tema padrão do Plasma 5
-Comment[sk]=Predvolená téma Plasma  5
+Comment[pt_BR]=Tema padr??o do Plasma 5
+Comment[sk]=Predvolen?? t??ma Plasma  5
 Comment[sl]=Privzeta tema za Plasmo 5
 Comment[sv]=Plasma 5 standardtema
-Comment[uk]=Типова тема Плазми 5
+Comment[uk]=???????????? ???????? ???????????? 5
 Comment[x-test]=xxDefault Plasma 5 Themexx
 
 DisplayDepth=32
@@ -267,7 +267,7 @@ Type=Fixed
 [places/32]
 Size=32
 Context=Places
-Type=Fixed
+Type=Scalable
 MinSize=32
 MaxSize=48
 
@@ -292,7 +292,9 @@ Type=Fixed
 [status/22]
 Size=22
 Context=Status
-Type=Fixed
+Type=Scalable
+MinSize=22
+MaxSize=32
 
 #24x24 - Fixed size - for GTK apps. - WRONG_ICON_USAGE_BY_APP - Monochrome
 [status/24]

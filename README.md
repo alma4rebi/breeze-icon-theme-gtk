@@ -6,7 +6,10 @@ Breeze (Plasma 5 icon theme) - Mirror KDE:Breeze
 
 Icons are licensed under the [LGPLv3](http://opensource.org/licenses/lgpl-3.0.html)
 
-* Check **LICENSE** file inside the package for more information.
+* Check **LICENSE** file inside the package for more information. 
+
+*This repository is closed as of February 19th, 2016 19:36 PM CST. Please do not open new PR. The contents here are outdated and it's recommended that you use the official sources if you want to contribute to Breeze.*
+========
 
 Download
 ========
